@@ -2,8 +2,6 @@ package com.kh.poly.homework1.run;
 
 import java.util.Scanner;
 
-import com.kh.part01_polymorphismTest.homework_1_ShinHana.controller.PlayerManager;
-
 public class Run {
 
 	public static void main(String[] args) {
